@@ -16,5 +16,7 @@ The data that is used in this dashboard is Crime Data from 2020 to 2024 (updated
 
 -----------------------------------
 
+https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data
+
 
 **Author** Copyright (c) *2024 Muhammad Chavez Assad Patriot*
