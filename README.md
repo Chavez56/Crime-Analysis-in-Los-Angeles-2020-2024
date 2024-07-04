@@ -6,17 +6,6 @@ Crime in Los Angeles has varied throughout time, reaching peaks between the 1970
 
 ## 2. Data
 
-The data that is used in this dashboard is Crime Data from 2020 to 2024 (updated until April, 15th) downloaded from https://data.gov/. This data contain 28 columns.
-
-## 3. Insights
-
------------------------------------
-
-## 4. Conclusion
-
------------------------------------
-
-https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data
-
+The data that is used in this dashboard is Crime Data from 2020 to 2024 (updated until April, 15th) downloaded from https://data.gov/. This data contain 28 columns. For the explanation can be seen on this link: https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data
 
 **Author** Copyright (c) *2024 Muhammad Chavez Assad Patriot*
